@@ -46,7 +46,12 @@
   margin-top: 40px;
 }
 
+.container-fluid h2 {
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
 #projectDesign {
   background-color: lightblue;
-  
+
 }
