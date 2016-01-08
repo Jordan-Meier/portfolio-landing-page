@@ -1,0 +1,39 @@
+/* Header
+===================================*/
+
+.jumbotron {
+  background-image: url('../images/icfc.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 0;
+  opacity: ;
+}
+
+
+.stretch {
+    width:100%;
+    height:100%;
+}
+
+.img-circle {
+    background: url('../images/sloth.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+
+/* Nav bar
+==================================*/
+
+.navbar {
+  margin-bottom: 0;
+}
